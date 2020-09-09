@@ -1,0 +1,1 @@
+Sizin qeyidleriniz test.txt fayilina daxil edildi
